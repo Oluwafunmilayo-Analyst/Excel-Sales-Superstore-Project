@@ -53,14 +53,26 @@ Profit Margin Category =IF(“Cell” > 0.2, "High Margin", "Low Margin")
 
 YoY Sales Growth % = (Current Year sales - Previous Year Sales)/Previous Year Sales *100
 ```
+![YoY% growth](https://github.com/user-attachments/assets/3ac26aea-fa0f-4333-87be-8eb01dcc90f7)
+
 
 ### Results /Findings
 ---
+<img width="742" height="471" alt="dashboard new" src="https://github.com/user-attachments/assets/296dd246-869c-4db4-8200-350a2769d900" />
+
+
  The Analysis Results are summarized as follows:
-   - California  had the highest sales and profit of $457,687.63 and $76,381.39 respectively for the duration.The South region has the highest sales volume but the lowest profit due to a 20% average discount rate on furniture
-   - Furniture category had the second highest Sales of $741,999.80 , Lowest Profit of  $18,451.27 and lowest Profit Margin of 82.26%.  
+   - California  had the highest sales and profit of $457,687.63 and $76,381.39 respectively for the duration.
+![top 10 sales](https://github.com/user-attachments/assets/1bb702d5-cecf-4bbe-a751-e421da47ecd9)
+   
+   - The South region has the highest sales volume but the lowest profit due to a 20% average discount rate on furniture.
+![South Dashboard](https://github.com/user-attachments/assets/6c7aff2e-cca3-400c-b3cf-d81f6a7b8e18)
+
+   - Furniture category had the second highest Sales of $741,999.80 , Lowest Profit of  $18,451.27 and lowest Profit Margin of 82.26%.
+![category amount](https://github.com/user-attachments/assets/1ab0fc77-1672-4842-9065-b7f33d179368)
    - The YoY Sales growth for the duration was 0%, 0.03%, 0.29% and 0.20% for the respective years of 2014-2017
    - In the Central Region, we noticed that as the Average Discount increased beyond 20%, the Profit Margin turned negative. This suggests that our current discount strategy in this region is destroying value rather than driving profitable growth.
+<img width="746" height="478" alt="central dashboard" src="https://github.com/user-attachments/assets/9db35bbc-02d8-4223-ac83-be0d9da36947" />
 
 ### Recommendations
 ---
